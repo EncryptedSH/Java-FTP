@@ -1,0 +1,28 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_4">
+   <svg id="svg_9" y="0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="800" width="800">
+    <g stroke-width="0" id="svg_3"/>
+    <g stroke-linejoin="round" stroke-linecap="round" id="svg_2"/>
+    <g id="svg_1">
+     <path id="svg_10" stroke-linejoin="round" stroke-width="2" stroke="#606468" d="m17.8284,6.82843c0.5781,0.57806 0.8671,0.86709 1.0194,1.23463c0.1522,0.36754 0.1522,0.77629 0.1522,1.59379l0,7.34315c0,1.8856 0,2.8284 -0.5858,3.4142c-0.5858,0.5858 -1.5286,0.5858 -3.4142,0.5858l-6,0c-1.88562,0 -2.82843,0 -3.41421,-0.5858c-0.58579,-0.5858 -0.58579,-1.5286 -0.58579,-3.4142l0,-10c0,-1.88562 0,-2.82843 0.58579,-3.41421c0.58578,-0.58579 1.52859,-0.58579 3.41421,-0.58579l3.3431,0c0.8175,0 1.2263,0 1.5938,0.15224c0.3676,0.15224 0.6566,0.44127 1.2347,1.01933l2.6568,2.65686z"/>
+    </g>
+   </svg>
+  </g>
+  <g transform="matrix(0.49, 0, 0, 0.426667, 51, 516)" id="svg_8">
+   <svg x="306.12213" id="svg_11" y="-573.43591" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="800" width="800">
+    <g stroke-width="0" id="svg_7"/>
+    <g stroke-linejoin="round" stroke-linecap="round" id="svg_6"/>
+    <g id="svg_5">
+     <path id="svg_12" stroke-linejoin="round" stroke-width="2" stroke="#606468" d="m3,7c0,-1.88562 0,-2.82843 0.58579,-3.41421c0.58578,-0.58579 1.52859,-0.58579 3.41421,-0.58579l5,0l5,0c1.8856,0 2.8284,0 3.4142,0.58579c0.5858,0.58578 0.5858,1.52859 0.5858,3.41421l0,3l0,3c0,1.8856 0,2.8284 -0.5858,3.4142c-0.5858,0.5858 -1.5286,0.5858 -3.4142,0.5858l-5,0l-5,0c-1.88562,0 -2.82843,0 -3.41421,-0.5858c-0.58579,-0.5858 -0.58579,-1.5286 -0.58579,-3.4142l0,-3l0,-3z"/>
+     <path id="svg_13" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#606468" d="m9,21l2.625,-3.5l0,0c0.1875,-0.25 0.5625,-0.25 0.75,0l0,0l2.625,3.5"/>
+     <path id="svg_14" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#606468" d="m12,7l0,6"/>
+     <path id="svg_15" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#606468" d="m16,8l0,5"/>
+     <path id="svg_16" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#606468" d="m8,9l0,4"/>
+    </g>
+   </svg>
+  </g>
+ </g>
+</svg>

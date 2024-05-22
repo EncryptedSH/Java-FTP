@@ -1,0 +1,26 @@
+<svg width="799.9999999999999" height="799.9999999999999" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_4">
+   <svg id="svg_9" y="0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="800" width="800">
+    <g stroke-width="0" id="svg_3"/>
+    <g stroke-linejoin="round" stroke-linecap="round" id="svg_2"/>
+    <g id="svg_1">
+     <path id="svg_10" stroke-linejoin="round" stroke-width="2" stroke="#606468" d="m17.8284,6.82843c0.5781,0.57806 0.8671,0.86709 1.0194,1.23463c0.1522,0.36754 0.1522,0.77629 0.1522,1.59379l0,7.34315c0,1.8856 0,2.8284 -0.5858,3.4142c-0.5858,0.5858 -1.5286,0.5858 -3.4142,0.5858l-6,0c-1.88562,0 -2.82843,0 -3.41421,-0.5858c-0.58579,-0.5858 -0.58579,-1.5286 -0.58579,-3.4142l0,-10c0,-1.88562 0,-2.82843 0.58579,-3.41421c0.58578,-0.58579 1.52859,-0.58579 3.41421,-0.58579l3.3431,0c0.8175,0 1.2263,0 1.5938,0.15224c0.3676,0.15224 0.6566,0.44127 1.2347,1.01933l2.6568,2.65686z"/>
+    </g>
+   </svg>
+  </g>
+  <g transform="matrix(0.621304, 0, 0, 0.606794, 72.1722, 209.436)" id="svg_8">
+   <svg x="124.06772" id="svg_11" y="-69.4697" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="800" width="800">
+    <g stroke-width="0" id="svg_7"/>
+    <g stroke-linejoin="round" stroke-linecap="round" id="svg_6"/>
+    <g id="svg_5">
+     <path id="svg_12" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#606468" d="m19,12c0,3.866 -3.134,7 -7,7c-3.86599,0 -7,-3.134 -7,-7c0,-3.86599 3.13401,-7 7,-7c1.8565,0 3.637,0.7375 4.9497,2.05025c1.3128,1.31276 2.0503,3.09325 2.0503,4.94975z" clip-rule="evenodd" fill-rule="evenodd"/>
+     <path id="svg_13" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#606468" d="m13,12c0,0.5523 -0.4477,1 -1,1c-0.5523,0 -1,-0.4477 -1,-1c0,-0.5523 0.4477,-1 1,-1c0.5523,0 1,0.4477 1,1z" clip-rule="evenodd" fill-rule="evenodd"/>
+     <path id="svg_14" stroke-linecap="round" stroke-width="1.5" stroke="#606468" d="m8,12c0,-2.20914 1.79086,-4 4,-4"/>
+    </g>
+   </svg>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,69 @@
+/* working directory style */
+h1 {
+    text-overflow: ellipsis; 
+    white-Space: nowrap;
+    overflow: scroll;
+    max-width: 478px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+/* name overflow style */
+.filename_overflow, .directoryname_overflow {
+    display: block;
+    text-overflow: ellipsis; 
+    white-space: nowrap;
+    overflow: scroll;
+    max-width: 200px;
+}
+
+/* list table style */
+.filename, .directoryname, .make_directory{ padding-left: 10px; }
+.upload_file { padding-left: 10px; padding-top: 50px; }
+.file_upload_img { padding-top: 50px; }
+.upload_mode { padding-top: 50px; padding-left: 150px; }
+.upload_type { padding-top: 50px; padding-left: 100px; }
+.date { padding-left: 150px; }
+.size { padding-left: 100px; }
+.mode, .data_type, .delete, .rename { padding-left: 25px; }
+.filename_title { padding-left: 10px; padding-bottom: 10px; }
+.date_title { padding-left: 150px; padding-bottom: 10px; }
+.size_title { padding-left: 100px; padding-bottom: 10px; }
+.mode_title { padding-left: 25px; padding-bottom: 10px; }
+.data_type_title { padding-left: 25px; padding-bottom: 10px; }
+
+/* general link style */
+a:hover { color: #12c78b; text-decoration: none;}
+a { font-size: 14px ;}
+
+/* delete link style */
+.delete_link { color: #606468; }
+
+/* uplaod file input style */
+input[type = "file"] {
+    display: none;
+}
+.custom_file_upload {
+    color: #eee;
+    cursor: pointer;
+}
+.custom_file_upload:hover { color: #12c78b; }
+label { font-size: 14px; }
+
+/* general text input style*/
+input[type = "text"] {
+    background: transparent;
+    font-size: 14px;
+}
+::placeholder { opacity: 1; }
+
+/* make dir text input syle */
+.make_dir_input { color: #eee; }
+.make_dir_input::placeholder { color: #eee; opacity: 1; }
+
+/* mode select style */
+select {
+    background-color: #2c3338; 
+    border: none;
+    color: #606468;
+}

@@ -1,0 +1,43 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <svg x="24" id="svg_10" y="2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="800" width="800">
+   <g stroke-width="0" id="svg_3"/>
+   <g stroke-linejoin="round" stroke-linecap="round" id="svg_2"/>
+   <g id="svg_1">
+    <path id="svg_11" stroke-linejoin="round" stroke-width="2" stroke="#606468" d="m17.8284,6.82843c0.5781,0.57806 0.8671,0.86709 1.0194,1.23463c0.1522,0.36754 0.1522,0.77629 0.1522,1.59379l0,7.34315c0,1.8856 0,2.8284 -0.5858,3.4142c-0.5858,0.5858 -1.5286,0.5858 -3.4142,0.5858l-6,0c-1.88562,0 -2.82843,0 -3.41421,-0.5858c-0.58579,-0.5858 -0.58579,-1.5286 -0.58579,-3.4142l0,-10c0,-1.88562 0,-2.82843 0.58579,-3.41421c0.58578,-0.58579 1.52859,-0.58579 3.41421,-0.58579l3.3431,0c0.8175,0 1.2263,0 1.5938,0.15224c0.3676,0.15224 0.6566,0.44127 1.2347,1.01933l2.6568,2.65686z"/>
+   </g>
+  </svg>
+  <g transform="matrix(0.427801, 0, 0, 0.389562, 32.5614, 159.7)" id="svg_36">
+   <svg x="512.66519" y="302.84217" fill="#000000" xml:space="preserve" viewBox="0 0 502.664 502.664" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="svg_5" version="1.1" width="800" height="800">
+    <g stroke-width="0" id="svg_8"/>
+    <g stroke-linejoin="round" stroke-linecap="round" id="svg_7"/>
+    <g id="svg_6">
+     <g id="svg_12">
+      <g id="svg_13">
+       <path id="svg_14" fill="#606468" d="m153.821,358.226l-153.821,-83.889l0,-46.463l153.821,-83.414l0,54.574l-107.185,51.489l107.185,53.431c0,0 0,54.272 0,54.272z"/>
+       <path id="svg_15" fill="#606468" d="m180.094,387.584l102.009,-272.504l32.227,0l-102.246,272.504l-31.99,0z"/>
+       <path id="svg_16" fill="#606468" d="m348.843,358.226l0,-54.272l107.164,-52.999l-107.164,-52.59l0,-53.927l153.821,83.522l0,46.183l-153.821,84.083z"/>
+      </g>
+      <g id="svg_17"/>
+      <g id="svg_18"/>
+      <g id="svg_19"/>
+      <g id="svg_20"/>
+      <g id="svg_21"/>
+      <g id="svg_22"/>
+      <g id="svg_23"/>
+      <g id="svg_24"/>
+      <g id="svg_25"/>
+      <g id="svg_26"/>
+      <g id="svg_27"/>
+      <g id="svg_28"/>
+      <g id="svg_29"/>
+      <g id="svg_30"/>
+      <g id="svg_31"/>
+     </g>
+    </g>
+   </svg>
+  </g>
+ </g>
+</svg>
